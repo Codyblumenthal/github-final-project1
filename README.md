@@ -1,6 +1,6 @@
 # github-final-project1
 
-Welcome to the SIple Interest Calculator open-source project. 
+Welcome to the Simple Interest Calculator open-source project. 
 This project is part of our micro-finance startup's journey to empower and provide 
 opportunities to low-income individuals by transitioning from Subversion to Git
 
